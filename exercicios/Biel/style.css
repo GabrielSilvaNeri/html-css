@@ -1,0 +1,26 @@
+body{
+     background-image: linear-gradient(to right, white, #FF81D0, #cc67a7)}
+
+     @font-face {
+          font-family: 'love';
+          src: url('fonts/fiolex_girls/Filxgirl.TTF');
+     }
+     h1{font-family: love; font-size: 5em;}
+
+h1 {text-align: center;}
+
+a{text-align: center;}
+
+iframe{center;image-orientation: font-size:}
+
+
+main{
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px black; 
+    text-align: center;}
+
+
+
